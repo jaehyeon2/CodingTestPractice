@@ -7,3 +7,5 @@ for coin in coin_types:
   n%=coin
 
 print(count)
+
+#거스름동 p.87

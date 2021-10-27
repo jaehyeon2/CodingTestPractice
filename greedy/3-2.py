@@ -13,3 +13,5 @@ result=0
 result+=(count)*first
 result+=(m-count)*second
 print(result)
+
+#큰 수의 법칙 p.92
