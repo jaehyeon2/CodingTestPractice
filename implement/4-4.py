@@ -43,3 +43,4 @@ while True:
     turn_time=0
 
 print(count)
+#p.118 게임 개발
